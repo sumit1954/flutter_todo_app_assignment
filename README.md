@@ -125,19 +125,19 @@ For debugging and development visibility, the app logs:
 
 ## Screenshots And Demo
 
-Screenshots:
+Preview size: `1280 x 720` for screenshots and video thumbnails.
 
 Authentication screen
-![alt text](Screenshot_20260427_194422.jpg)
+<img src="Screenshot_20260427_194422.jpg" alt="Authentication screen" width="640" />
 
 Dashboard screen : Portrait Mode
-![alt text](Screenshot_20260427_193907.jpg)
+<img src="Screenshot_20260427_193907.jpg" alt="Dashboard screen portrait mode" width="640" />
 
 Dashboard screen : Landscape Mode 
-![alt text](Screenshot_20260427_193911.jpg)
+<img src="Screenshot_20260427_193911.jpg" alt="Dashboard screen landscape mode" width="640" />
 
 Add / Update Todo screen
-![alt text](Screenshot_20260427_195831.jpg)
+<img src="Screenshot_20260427_195831.jpg" alt="Add update todo screen" width="640" />
 
 Demo video:
-<video controls src="Screenrecording_20260427_193623.mp4" title="Title"></video>
+<video controls src="Screenrecording_20260427_193623.mp4" title="Title" width="720"></video>
