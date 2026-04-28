@@ -128,12 +128,12 @@ For debugging and development visibility, the app logs:
 
 | Authentication | Dashboard Portrait |
 | --- | --- |
-| <img src="Screenshot_20260427_194422.jpg" alt="Authentication screen" width="270" height="602" /> | <img src="Screenshot_20260427_193907.jpg" alt="Dashboard screen portrait mode" width="270" height="602" /> |
+| <img src="screen_shots/Screenshot_20260427_194422.jpg" alt="Authentication screen" width="270" height="602" /> | <img src="screen_shots/Screenshot_20260427_193907.jpg" alt="Dashboard screen portrait mode" width="270" height="602" /> |
 
 | Dashboard Landscape | Add / Update Todo |
 | --- | --- |
-| <img src="Screenshot_20260427_193911.jpg" alt="Dashboard screen landscape mode" width="602" height="270" /> | <img src="Screenshot_20260427_195831.jpg" alt="Add update todo screen" width="270" height="602" /> |
+| <img src="screen_shots/Screenshot_20260427_193911.jpg" alt="Dashboard screen landscape mode" width="602" height="270" /> | <img src="screen_shots/Screenshot_20260427_195831.jpg" alt="Add update todo screen" width="270" height="602" /> |
 
 Demo video:
 
-- [Watch the demo video](Screenrecording_20260427_193623.mp4)
+- [Watch the demo video](screen_shots/Screenrecording_20260427_193623.mp4)
